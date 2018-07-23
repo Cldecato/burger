@@ -1,0 +1,48 @@
+body {
+    background-image: url("../img/burger.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: 100vw auto;
+}
+
+.burger-header {
+    margin-top: 5%;
+    color: white;
+}
+
+footer {
+    color: white;
+}
+
+a {
+    color: #d9b310;
+}
+
+a:hover {
+    color: #d9b310;
+}
+
+li {
+    padding: 5px;
+    margin: 5px;
+    list-style-type: none;
+}
+
+.label {
+    font-weight: bold;
+}
+
+.create-form {
+    padding: 5px;
+    margin: 5px;
+}
+
+.burger-controls {
+    padding: 10px;
+    background: white;
+    opacity: .90;
+}
+
+.form-group {
+    margin: 5px;
+}
